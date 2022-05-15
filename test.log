@@ -1,0 +1,46 @@
+#######################################
+log file just to test
+This is normal line with some random keywords added like config
+This line has error inside it
+This is normal line with some random keywords added like updating
+This is normal line with some random keywords added like running
+This is normal line with some random keywords added like model
+This line has Error inside it
+This is normal line with some random keywords added like newton
+This line has ERROR inside it
+This is normal line with some random keywords added like config
+This line has ERRor inside it
+This line has err inside it
+This line has fail inside it
+This is normal line with some random keywords added like config
+This is normal line with some random keywords added like newton
+This line has Fail inside it
+This line has FAIL inside it
+This line has failure inside it
+This line has Failure inside it
+This is normal line with some random keywords added like running
+This is normal line with some random keywords added like config
+This is normal line with some random keywords added like newton
+This is normal line with some random keywords added like newton
+This is normal line with some random keywords added like running
+This is normal line with some random keywords added like config
+This is normal line with some random keywords added like updating
+This is normal line with some random keywords added like config
+This is normal line with some random keywords added like newton
+This is normal line with some random keywords added like newton
+This line has failed inside it
+This line has Failed inside it
+This line has failing inside it
+This line has FAILING inside it
+Error: This line starts with error
+ERROR: This line starts with error but not in the end
+
+This line has warn inside it
+This line has WARN inside it
+This line has Warning inside it
+This line has warning inside it
+WARN: This is the warning line
+===================================
+
+
+
